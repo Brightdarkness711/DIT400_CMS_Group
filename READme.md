@@ -22,10 +22,9 @@
 ## Build and Run Instructions
 
 ### C++ (using CodeBlocks)
-1. Open CodeBlocks IDE.  
-2. Go to File > Import project > .  
-3. Replace the default main.cpp with the provided cms.cpp file.  
-4. Build and Run (press F9).  
+1. Open CodeBlocks IDE.
+2. Drag and Drop the provide C++ code     
+3. Build and Run (press F9).  
    - The program will generate and use two files in the project directory:  
      - users.txt for usernames and passwords.  
      - courses.txt for course records.
